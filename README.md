@@ -88,12 +88,13 @@ These are examples of insights derived from the dataset:
 delivery-performance-otif-analysis/
 │
 ├── data/
-│ └── deliveries_dataset.xlsx
+│   └── deliveries_dataset.xlsx
 │
 ├── analysis/
-│ └── pivot_tables_screenshots/ 
+│   └── pivot_tables_screenshots/   (optional)
 │
 └── README.md
+
 
 ---
 
