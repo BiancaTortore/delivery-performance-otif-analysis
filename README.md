@@ -91,7 +91,9 @@ delivery-performance-otif-analysis/
 │   └── deliveries_dataset.xlsx
 │
 ├── analysis/
-│   └── pivot_tables_screenshots/   (optional)
+│   └── Sreenshot_OTIF_total
+│   └── Sreenshot_OTIF_by_carrier
+│   └── Sreenshot_leadtime_by_warehouse
 │
 └── README.md
 ```
