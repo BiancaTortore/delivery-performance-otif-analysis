@@ -83,19 +83,19 @@ Used for distribution analysis:
 /Screenshot_OTIF_by_carrier.png)
 
 ### OTIF by Carrier
-![OTIF by Carrier](delivery-performance-otif-analysis/analysis/Screenshot_OTIF_by_carrier)
+![OTIF by Carrier](analysis/Screenshot_OTIF_by_carrier.png)
 
 ### Average Lead Time
-![Average Lead Time](delivery-performance-otif-analysis/analysis/Screenshot_average_lead_time)
+![Average Lead Time](analysis/Screenshot_average_lead_time.png)
 
 ### Lead Time Distribution
-![Lead Time Distribution](delivery-performance-otif-analysis/analysis/Screenshot_lead_time_distribution)
+![Lead Time Distribution](analysis/Screenshot_lead_time_distribution.png)
 
 ### Lead Time by Warehouse
-![Lead Time by Warehouse](delivery-performance-otif-analysis/analysis/Screenshot_leadtime_by_warehouse)
+![Lead Time by Warehouse](analysis/Screenshot_leadtime_by_warehouse.png)
 
 ### On-time Rate
-![On-time Rate](delivery-performance-otif-analysis/analysis/Screenshot_on_time_rate)
+![On-time Rate](analysis/Screenshot_on_time_rate.png)
 
 ---
 
